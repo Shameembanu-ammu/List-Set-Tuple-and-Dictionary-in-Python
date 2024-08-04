@@ -11,11 +11,11 @@
 ## Overview
 A list in Python is an ordered collection of items that can be of any type. Lists are mutable, meaning you can change their content after creation.
 
-## Creating Lists
-python
-Copy code
-my_list = [1, 2, 3, 4, 5]
-mixed_list = [1, "two", 3.0, [4, 5]]
+Creating Lists
+``` python 
+  Copy code 
+  my_list = [1, 2, 3, 4, 5]
+  mixed_list = [1, "two", 3.0, [4, 5]] 
 
 ## Key Methods
 append(item): Adds an item to the end of the list.
